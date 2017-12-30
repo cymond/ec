@@ -1,0 +1,11 @@
+# Use sudo nano to create the file in /etc/systemd/system/ directory
+# then run command systemctl enable vgaoff.service and it will be enabled for next boot
+[Unit]
+Description=run kickstart
+
+[Service]
+Type=oneshot
+ExecStart=/home/pete/docker/sys/kickstart.sh
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,58 @@
+version: '2' 
+
+services:
+ database:
+  image: centurylink/mysql
+  environment:
+   - MYSQL_DATABASE=pkdemo
+   - MYSQL_ROOT_PASSWORD=admin
+  volumes:
+   - /data:/var/lib/mysql
+   - /home/ubuntu/db_backup/:/db_backup/
+  ports:
+   - "0.0.0.0:3306:3306/tcp"
+  container_name: cont_db
+  
+
+ tws:
+  image: cymond/ib
+  ports:
+   - "7496:7496"
+   - "5901:5900"
+  container_name: cont_tws
+  environment:
+   - TZ=America/New_York
+   # Variables pulled from /IBController/IBControllerGatewayStart.sh
+   - VNC_PASSWORD=password
+   - TWS_MAJOR_VRSN=960
+   - IBC_INI=/root/IBController/IBController.ini
+   - TRADING_MODE=${IB_TRADING_MODE}
+   - IBC_PATH=/opt/IBController
+   - TWS_PATH=/root/Jts
+   - TWS_CONFIG_PATH=/root/Jts
+   - LOG_PATH=/opt/IBController/Logs
+   - TWSUSERID=${IB_USER}
+   - TWSPASSWORD=${IB_PASSWORD}
+   - FIXUSERID=
+   - FIXPASSWORD=
+   - JAVA_PATH=
+   - APP=GATEWAY
+  depends_on:
+   - "database"
+  network_mode: "host"
+
+ app:
+  image: cymond/sys
+  container_name: cont_app
+  volumes: 
+   - /home/ubuntu/results/:/results/
+   - /home/ubuntu/backup/:/backup/
+   - /home/ubuntu/IBJts/:/IBJts/
+  network_mode: "host"
+
+  depends_on:
+   - "tws"
+  command: bash -c "python3 /pysystemtrade/private/SystemR/prod8_re.py"
+
+       
+

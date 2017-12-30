@@ -1,0 +1,6 @@
+version: '2' 
+services:
+ tws:
+  command: bash runscript.sh
+ app:
+  command: bash run_gen_report.sh

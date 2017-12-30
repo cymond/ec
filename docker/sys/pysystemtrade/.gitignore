@@ -1,0 +1,7 @@
+.cache
+__pycache__
+*.egg-info
+.ipynb_checkpoints
+private/SystemR/system.pck
+private/SystemR/admin/system.pck
+private/SystemR/admin

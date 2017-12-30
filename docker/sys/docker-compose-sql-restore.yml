@@ -1,0 +1,4 @@
+version: '2' 
+services:
+    app:
+        command: bash run_sql_restore.sh

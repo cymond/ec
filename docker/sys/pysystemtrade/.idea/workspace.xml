@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/private/SystemR/test_prod.py" line="168" />
+    <bookmark url="file://$PROJECT_DIR$/private/SystemR/prod8_re.py" line="203" />
+    <bookmark url="file://$PROJECT_DIR$/private/SystemR/dbutils/ibwrapper.py" line="496" />
+    <bookmark url="file://$PROJECT_DIR$/private/SystemR/dbutils/backup_database.py" line="23" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57b39e03-58e1-47d0-8d6e-b3d70d77724a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170327trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170328trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170329trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170330trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170331trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170402trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170403trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170404trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170405trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170406trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170407trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170408trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170411trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170412trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170413trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170414trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170417trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170418trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170419trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170420trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170421trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170424trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170425trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170426trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170427trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170428trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170501trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170502trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170503trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170504trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170505trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170507trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170508trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170509trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170510trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170511trades.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private/SystemR/admin/trades/history/20170512trades.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/CHFUSDfx.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/CHFUSDfx.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/EURUSDfx.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/EURUSDfx.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/GBPUSDfx.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/GBPUSDfx.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/KRWUSDfx.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/KRWUSDfx.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/aex_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/aex_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/aex_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/aex_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/aud_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/aud_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/aud_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/aud_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/bobl_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/bobl_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/bobl_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/bobl_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/btp_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/btp_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/btp_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/btp_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/bund_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/bund_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/bund_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/bund_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/cac_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/cac_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/cac_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/cac_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/copper_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/copper_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/copper_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/copper_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/corn_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/corn_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/corn_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/corn_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/crude_w_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/crude_w_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/crude_w_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/crude_w_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/edollar_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/edollar_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/edollar_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/edollar_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/eur_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/eur_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/eur_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/eur_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/eurostx_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/eurostx_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/eurostx_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/eurostx_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/gas_us_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/gas_us_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/gas_us_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/gas_us_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/gbp_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/gbp_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/gbp_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/gbp_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/gold_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/gold_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/gold_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/gold_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/jpy_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/jpy_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/jpy_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/jpy_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/kospi_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/kospi_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/kospi_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/kospi_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/kr10_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/kr10_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/kr10_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/kr10_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/kr3_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/kr3_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/kr3_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/kr3_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/leanhog_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/leanhog_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/leanhog_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/leanhog_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/livecow_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/livecow_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/livecow_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/livecow_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/mxp_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/mxp_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/mxp_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/mxp_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/nasdaq_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/nasdaq_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/nasdaq_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/nasdaq_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/nzd_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/nzd_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/nzd_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/nzd_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/oat_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/oat_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/oat_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/oat_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/pallad_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/pallad_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/pallad_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/pallad_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/plat_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/plat_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/plat_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/plat_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/smi_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/smi_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/smi_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/smi_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/soybean_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/soybean_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/soybean_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/soybean_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/sp500_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/sp500_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/sp500_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/sp500_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/us10_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/us10_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/us10_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/us10_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/us20_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/us20_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/us20_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/us20_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/us2_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/us2_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/us2_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/us2_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/us5_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/us5_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/us5_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/us5_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/v2x_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/v2x_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/v2x_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/v2x_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/vix_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/vix_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/vix_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/vix_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/wheat_carrydata.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/wheat_carrydata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/dbutils/wheat_price.csv" afterPath="$PROJECT_DIR$/private/SystemR/dbutils/wheat_price.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/private/SystemR/prod8_re.py" afterPath="$PROJECT_DIR$/private/SystemR/prod8_re.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="prod1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="prod8_re.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/SystemR/prod8_re.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="262" column="7" lean-forward="false" selection-start-line="262" selection-start-column="4" selection-end-line="262" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testupdate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/SystemR/testupdate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backup_database.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/SystemR/dbutils/backup_database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panama.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/SystemR/dbutils/panama.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="1047" column="63" lean-forward="false" selection-start-line="1047" selection-start-column="62" selection-end-line="1047" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prod6_go.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/private/SystemR/prod6_go.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="50" column="68" lean-forward="false" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="68" />
+              <folding>
+                <element signature="e#47#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sqlalchemy</find>
+      <find>_my_accounts</find>
+      <find>if x</find>
+      <find>today</find>
+      <find>ib_download</find>
+      <find>mkt_ser</find>
+      <find>today_as</find>
+      <find>ib_d</find>
+      <find>ib_dow</find>
+      <find>ib_down</find>
+      <find>Tokyo</find>
+      <find>Asia</find>
+      <find>int</find>
+      <find>kr3</find>
+      <find>==</find>
+      <find>logger</find>
+      <find>marketdata</find>
+      <find>dict</find>
+      <find>]=</find>
+      <find>] =</find>
+      <find>lower</find>
+      <find>cost</find>
+      <find>sql</find>
+      <find>vix2016</find>
+      <find>Exception</find>
+      <find>dbutils</find>
+      <find>to_c</find>
+      <find>/</find>
+      <find>Roll</find>
+      <find>log</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/private</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/private/SystemR/legacycsv/test_data_sql_objects.ipynb" />
+        <option value="$PROJECT_DIR$/private/SystemR/data/EDOLLAR_carrydata.csv" />
+        <option value="$PROJECT_DIR$/private/SystemR/prod2_dl.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/admin/reports/20170810_monthly.csv" />
+        <option value="$PROJECT_DIR$/private/SystemR/admin/trades/trades.csv" />
+        <option value="$PROJECT_DIR$/test_downloads.ipynb" />
+        <option value="$PROJECT_DIR$/private/SystemR/use_pickle.ipynb" />
+        <option value="$PROJECT_DIR$/private/SystemR/un_pickle_system.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/admin/test/capital/capital.csv" />
+        <option value="$PROJECT_DIR$/private/SystemR/mysqldata.py" />
+        <option value="$PROJECT_DIR$/test_file.ipynb" />
+        <option value="$PROJECT_DIR$/private/SystemR/test_prod.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/test_downloads.yaml" />
+        <option value="$PROJECT_DIR$/private/SystemR/admin/capital/capital.csv" />
+        <option value="$PROJECT_DIR$/private/SystemR/test_data_objects.ipynb" />
+        <option value="$PROJECT_DIR$/private/SystemR/wrapper_v2.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/testinit.py" />
+        <option value="$PROJECT_DIR$/old_prod6.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/wrapper_v5.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/ibcapital.py" />
+        <option value="$PROJECT_DIR$/prod1_net_capital.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/test_data_sql_objects.ipynb" />
+        <option value="$PROJECT_DIR$/private/SystemR/prod1_net_capital.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/dbutils/ibwrapper.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/prod_capital_native.py" />
+        <option value="$PROJECT_DIR$/capital_test.ipynb" />
+        <option value="$PROJECT_DIR$/private/SystemR/test_test.py" />
+        <option value="$PROJECT_DIR$/reporting_on_pickle.ipynb" />
+        <option value="$PROJECT_DIR$/private/SystemR/dbutils/capital.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/test_unpick.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/get_accounting_data.py" />
+        <option value="$PROJECT_DIR$/get_market_data.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/get_market_data.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/get_market_prices.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/dbutils/panama.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/prod6_go.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/testupdate.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/load_roll_schedule_from_csv.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/dbutils/restore_database.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/dbutils/backup_database.py" />
+        <option value="$PROJECT_DIR$/private/SystemR/prod8_re.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="343" />
+    <option name="y" value="58" />
+    <option name="width" value="1176" />
+    <option name="height" value="936" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pysystemtrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pysystemtrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pysystemtrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pysystemtrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pysystemtrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="private" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pysystemtrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pysystemtrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="private" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/private/SystemR" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/private/SystemR/dbutils" />
+      <recent name="$PROJECT_DIR$/private/SystemR/admin" />
+      <recent name="$PROJECT_DIR$/private/SystemR" />
+      <recent name="$PROJECT_DIR$/private/SystemR/admin/test/positions" />
+      <recent name="$PROJECT_DIR$/private/SystemR/admin/test/capital" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.prod8_re">
+    <configuration default="false" name="prod8_re" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/private/SystemR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/private/SystemR/prod8_re.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="backup_database" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/private/SystemR/dbutils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/private/SystemR/dbutils/backup_database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="restore_database" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/private/SystemR/dbutils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/private/SystemR/dbutils/restore_database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testupdate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/private/SystemR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/private/SystemR/testupdate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="prod6_go" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/private/SystemR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/private/SystemR/prod6_go.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pysystemtrade" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.prod8_re" />
+      <item index="1" class="java.lang.String" itemvalue="Python.backup_database" />
+      <item index="2" class="java.lang.String" itemvalue="Python.restore_database" />
+      <item index="3" class="java.lang.String" itemvalue="Python.testupdate" />
+      <item index="4" class="java.lang.String" itemvalue="Python.prod6_go" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.prod8_re" />
+        <item index="1" class="java.lang.String" itemvalue="Python.prod6_go" />
+        <item index="2" class="java.lang.String" itemvalue="Python.testupdate" />
+        <item index="3" class="java.lang.String" itemvalue="Python.backup_database" />
+        <item index="4" class="java.lang.String" itemvalue="Python.restore_database" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b39e03-58e1-47d0-8d6e-b3d70d77724a" name="Default" comment="" />
+      <created>1484664248343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484664248343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_panama_(1) - 2017.09.20 at 00h 07m 19s.xml">
+      <configuration name="Doctests in panama (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_panama_(2) - 2017.10.13 at 11h 18m 56s.xml">
+      <configuration name="Doctests in panama (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_get_market_data - 2017.09.08 at 14h 45m 09s.xml">
+      <configuration name="Unittests in get_market_data" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_get_market_data - 2017.09.08 at 14h 46m 47s.xml">
+      <configuration name="Unittests in get_market_data" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_get_market_data - 2017.09.08 at 21h 26m 11s.xml">
+      <configuration name="Unittests in get_market_data" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ibwrapper - 2017.09.02 at 02h 39m 50s.xml">
+      <configuration name="Unittests in ibwrapper" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ibwrapper_(1) - 2017.09.02 at 02h 45m 32s.xml">
+      <configuration name="Unittests in ibwrapper (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_prod_capital_native - 2017.09.04 at 01h 45m 03s.xml">
+      <configuration name="Unittests in prod_capital_native" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_prod_capital_native - 2017.09.04 at 01h 45m 43s.xml">
+      <configuration name="Unittests in prod_capital_native" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_prod_capital_native - 2017.09.04 at 01h 46m 16s.xml">
+      <configuration name="Unittests in prod_capital_native" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="343" y="58" width="1176" height="936" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23805387" sideWeight="0.52034885" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61129946" sideWeight="0.4558304" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.4964965" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49171272" sideWeight="0.49295774" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24492386" sideWeight="0.5441696" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24935512" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328341" sideWeight="0.4941825" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19363958" sideWeight="0.47965115" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40607736" sideWeight="0.54982334" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.560452" sideWeight="0.49116609" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5374841" sideWeight="0.4669749" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.4964965" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49308756" sideWeight="0.49295774" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30068967" sideWeight="0.5330251" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328341" sideWeight="0.4941825" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17809187" sideWeight="0.5317164" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5606596" sideWeight="0.49383563" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24935512" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17942438" sideWeight="0.4682836" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35689047" sideWeight="0.48995462" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sysdata/csvdata.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/un_pickle_system.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/test_unpick.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/test_unpick.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/test_unpick.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/test_unpick.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/dbutils/panama.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/get_market_data.py</url>
+          <line>431</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/get_market_prices.py</url>
+          <line>408</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/dbutils/panama.py</url>
+          <line>1206</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/dbutils/panama.py</url>
+          <line>249</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/dbutils/panama.py</url>
+          <line>1180</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/dbutils/panama.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/dbutils/panama.py</url>
+          <line>1111</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/private/SystemR/dbutils/restore_database.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="114" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/lib/examples/smallaccountsize/roundingeffects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="156" column="74" lean-forward="false" selection-start-line="156" selection-start-column="74" selection-end-line="156" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/lib/examples/smallaccountsize/generatesystems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="37" column="73" lean-forward="false" selection-start-line="37" selection-start-column="73" selection-end-line="37" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/IButils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/docker_prod6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1009">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/test_downloads.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="1" lean-forward="false" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/wrapper_v5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29670">
+          <caret line="2065" column="0" lean-forward="false" selection-start-line="2065" selection-start-column="0" selection-end-line="2065" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/test_prod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="209" column="22" lean-forward="false" selection-start-line="209" selection-start-column="18" selection-end-line="209" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_prod6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="1872" column="0" lean-forward="false" selection-start-line="1872" selection-start-column="0" selection-end-line="1872" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/admin/capital/capital.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="22" lean-forward="false" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/ibcapital.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/envs/notebook/lib/python3.5/site-packages/sqlalchemy/engine/strategies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/wrapper_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/admin/marketdata.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/test_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capital_test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reporting_on_pickle.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/dbutils/capital.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/get_accounting_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="469" column="0" lean-forward="true" selection-start-line="469" selection-start-column="0" selection-end-line="469" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/get_market_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6000">
+          <caret line="400" column="0" lean-forward="false" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
+          <folding>
+            <element signature="e#645#679#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/prod1_net_capital.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/prod_capital_native.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="500" column="7" lean-forward="false" selection-start-line="500" selection-start-column="7" selection-end-line="500" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/testinit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/get_market_prices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="403" column="18" lean-forward="false" selection-start-line="403" selection-start-column="18" selection-end-line="403" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/test_unpick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="96" column="22" lean-forward="false" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+          <folding>
+            <marker date="1504825011589" expanded="false" signature="6680:6915" ph="import ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/dbutils/ibwrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4965">
+          <caret line="336" column="1" lean-forward="false" selection-start-line="336" selection-start-column="1" selection-end-line="336" selection-end-column="1" />
+          <folding>
+            <element signature="e#645#679#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62370">
+          <caret line="4211" column="0" lean-forward="false" selection-start-line="4211" selection-start-column="0" selection-end-line="4211" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="1595" column="0" lean-forward="false" selection-start-line="1595" selection-start-column="0" selection-end-line="1595" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/internals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41055">
+          <caret line="2801" column="0" lean-forward="false" selection-start-line="2801" selection-start-column="0" selection-end-line="2801" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/test_data_objects.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/test_data_sql_objects.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/types/missing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/admin/logs/reconciler.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122520">
+          <caret line="8168" column="14" lean-forward="false" selection-start-line="8168" selection-start-column="14" selection-end-line="8168" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/tseries/resample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13725">
+          <caret line="943" column="0" lean-forward="false" selection-start-line="943" selection-start-column="0" selection-end-line="943" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/admin/roll_history.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/load_roll_schedule_from_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/dbutils/restore_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/admin/positions/current.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/admin/trades/trades.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/dbutils/backup_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/dbutils/panama.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1047" column="63" lean-forward="false" selection-start-line="1047" selection-start-column="62" selection-end-line="1047" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/production01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="67" column="44" lean-forward="true" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/prod8_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="262" column="7" lean-forward="false" selection-start-line="262" selection-start-column="4" selection-end-line="262" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/testupdate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/SystemR/prod6_go.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="50" column="68" lean-forward="false" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="68" />
+          <folding>
+            <element signature="e#47#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
